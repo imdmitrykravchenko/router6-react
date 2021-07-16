@@ -14,7 +14,7 @@
   "author": "Dmitry Kravchenko",
   "license": "ISC",
   "peerDependencies": {
-    "router6": "git+ssh://git@github.com/imdmitrykravchenko/router6.git",
+    "router6": "git+https://git@github.com/imdmitrykravchenko/router6.git",
     "react": "^17.0.0"
   },
   "devDependencies": {
@@ -22,7 +22,6 @@
     "jest": "^26.6.3",
     "prettier": "^2.3.0",
     "react": "^17.0.0",
-    "router6": "git+ssh://git@github.com/imdmitrykravchenko/router6.git",
     "ts-jest": "^26.5.6",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.4"
