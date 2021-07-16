@@ -14,7 +14,7 @@
   "author": "Dmitry Kravchenko",
   "license": "ISC",
   "peerDependencies": {
-    "router6": "git@github.com:imdmitrykravchenko/router6.git",
+    "router6": "git+ssh://git@github.com/imdmitrykravchenko/router6.git",
     "react": "^17.0.0"
   },
   "devDependencies": {
