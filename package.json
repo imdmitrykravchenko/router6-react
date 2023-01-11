@@ -1,6 +1,6 @@
 {
   "name": "router6-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "router6 react bindings",
   "main": "dist/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "license": "ISC",
   "peerDependencies": {
     "react": "^18.2.0",
-    "router6": "0.0.1",
+    "router6": "^0.0.3",
     "url": "^0.11.0"
   },
   "devDependencies": {
